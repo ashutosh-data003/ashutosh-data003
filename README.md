@@ -1,5 +1,15 @@
-# 💫 About Me:
-i currently working on my data analyst skills,<br>my skills are sql, excel, advanced excel, python, eda, 
+# 💫 About Me
+Hi, I’m Ashutosh 👋  
+Aspiring Data Analyst with a strong interest in data analytics and problem-solving.  
+I enjoy working with Python and SQL to clean data, analyze trends, and uncover meaningful insights.  
+
+I have experience with data cleaning, exploratory data analysis (EDA), and data visualization using tools like Pandas, NumPy, Matplotlib, and Seaborn.  
+I like turning raw data into clear insights that support better decision-making.  
+
+Currently, I’m focused on building hands-on projects, improving practical data analysis skills, and preparing for a data analyst role.
+
+
+
 
 
 ## 🌐 Socials:
